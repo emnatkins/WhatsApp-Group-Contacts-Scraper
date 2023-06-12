@@ -4,5 +4,5 @@ This will enable you to get group contacts from your whatsapp specific group you
 
 ### 👯Clone Project
 ```shell
-git clone https://github.com/erfan4lx/WhatsApp-Group-Contacts-Scraper
+git clone https://github.com/emnatkins/WhatsApp-Group-Contacts-Scraper/
 ```
